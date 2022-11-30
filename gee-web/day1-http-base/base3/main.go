@@ -1,8 +1,8 @@
 package main
 
 import (
-	"base3/gee"
 	"fmt"
+	"gee"
 	"net/http"
 )
 
